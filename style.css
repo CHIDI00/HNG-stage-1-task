@@ -207,7 +207,6 @@ a:hover {
 		height: 70%;
 		margin-top: 10rem;
 		margin-bottom: 20rem;
-		/* margin: auto; */
 	}
 
 	.aboutContainer {
@@ -219,11 +218,10 @@ a:hover {
 
 	.ContactInfoContainer1 {
 		width: 100%;
-		flex-direction: column;
-		flex-wrap: wrap;
 	}
 	.ContactInfoContainer2 {
 		justify-content: space-around;
+		flex-direction: column;
 		width: 100%;
 	}
 
